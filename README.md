@@ -148,18 +148,6 @@ Aplicación desarrollada para practicar operaciones CRUD, conexión con base de 
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=psilara&show_icons=true&theme=github_dark&hide_border=true" height="160">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psilara&layout=compact&theme=github_dark&hide_border=true" height="160">
-
-</div>
-
----
-
 ## 📈 Actividad
 
 <div align="center">
